@@ -140,8 +140,9 @@ Material:
     - _FoamProceduralColor: {r: 1, g: 1, b: 1, a: 1}
     - _FoarmColor: {r: 0.5330089, g: 0.9685534, b: 0.9588496, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _WaterColorBase: {r: 0.103140526, g: 0.445939, b: 0.93710685, a: 0}
+    - _WaterColorBase: {r: 0.10314048, g: 0.445939, b: 0.93710685, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &6814227627731951307
 MonoBehaviour:
   m_ObjectHideFlags: 11
