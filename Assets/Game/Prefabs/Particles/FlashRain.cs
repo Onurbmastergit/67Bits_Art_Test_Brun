@@ -7,6 +7,7 @@ public class FlashRain : MonoBehaviour
 public Light myLight;  // Sua luz direcional
 
     private float lastTime = 0;
+    public AudioSource thunder;
     public float minTime = 5.0f;  // Tempo mínimo entre os raios
     public float maxTime = 11.0f; // Tempo máximo entre os raios
     public Color lightningColor = new Color(0.8f, 0.9f, 1.0f);  // Tom azul claro, típico de raios
