@@ -14922,17 +14922,17 @@ PrefabInstance:
     - target: {fileID: 8830369217299321331, guid: 71f076a25d9c3f842a2c6fef956538c1,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8830369217299321331, guid: 71f076a25d9c3f842a2c6fef956538c1,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8830369217299321331, guid: 71f076a25d9c3f842a2c6fef956538c1,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24814,17 +24814,17 @@ PrefabInstance:
     - target: {fileID: 1661173903814905895, guid: c6ba83b013800ba4795898959a866ba8,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1661173903814905895, guid: c6ba83b013800ba4795898959a866ba8,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1661173903814905895, guid: c6ba83b013800ba4795898959a866ba8,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4869507102259637632, guid: c6ba83b013800ba4795898959a866ba8,
         type: 3}
@@ -24925,6 +24925,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Events.Array.data[0].Events.m_PersistentCalls.m_Calls.Array.data[5].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8485027135940963692, guid: c6ba83b013800ba4795898959a866ba8,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

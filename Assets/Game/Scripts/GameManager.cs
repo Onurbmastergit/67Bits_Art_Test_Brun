@@ -81,6 +81,7 @@ public class GameManager : MonoBehaviour
             directionalLight.intensity = 1f;
         }
     }
+   
 
     void RotationSun()
     {
